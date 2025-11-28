@@ -9,8 +9,8 @@ I am an MCA student and Freelance Developer who turns complex logic into clean, 
 - 🛠️ Tech Stack: **React.js, Node.js, Kotlin, MongoDB, Tailwind CSS**
 
 ### 📬 Connect with me
-[<img align="left" alt="Divyesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/divyeshtrivedi0908/)
-[<img align="left" alt="Divyesh | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vercel.svg" />](https://your-portfolio-link.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyesh-trivedi-mumbai/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
 
 <br />
 
