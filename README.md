@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Divyesh Trivedi! 👋
+### Full Stack Developer | Former Programming Instructor
 
-<!--
-**Divyesh172/Divyesh172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an MCA student and Freelance Developer who turns complex logic into clean, scalable web applications. With 2 years of experience teaching programming, I know how to write code that is efficient and easy to maintain.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently building **OmniShop (MERN Stack E-Commerce)**
+- 💼 I’m open to **Freelance Web Development Projects**
+- 🎓 FYMCA Student at **VESIT, Chembur**
+- 🛠️ Tech Stack: **React.js, Node.js, Kotlin, MongoDB, Tailwind CSS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Connect with me
+[<img align="left" alt="Divyesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/divyeshtrivedi0908/)
+[<img align="left" alt="Divyesh | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vercel.svg" />](https://your-portfolio-link.vercel.app)
+
+<br />
+
+### 📊 GitHub Stats
+![Divyesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyesh172&show_icons=true&theme=radical)
