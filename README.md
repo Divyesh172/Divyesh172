@@ -1,18 +1,30 @@
-# Hi, I'm Divyesh Trivedi! 👋
-### Full Stack Developer | Former Programming Instructor
+# Hi there, I'm Divyesh! 👋
+### Backend Developer & SRE Enthusiast
 
-I am an MCA student and Freelance Developer who turns complex logic into clean, scalable web applications. With 2 years of experience teaching programming, I know how to write code that is efficient and easy to maintain.
+I specialize in building robust backend systems and optimizing cloud infrastructure. Currently shifting my focus toward **Site Reliability Engineering (SRE)**, **DevOps**, and **Scalable Architecture**.
 
-- 🔭 I’m currently building **OmniShop (MERN Stack E-Commerce)**
-- 💼 I’m open to **Freelance Web Development Projects**
-- 🎓 FYMCA Student at **VESIT, Chembur**
-- 🛠️ Tech Stack: **React.js, Node.js, Kotlin, MongoDB, Tailwind CSS**
+- 🔭 I’m currently working on **High-Performance E-commerce Architectures**
+- 🌱 I’m currently learning **AWS Cloud & Advanced Kubernetes**
+- ⚡ Fun fact: I recently optimized my portfolio to hit a **99/100 Performance Score**!
 
-### 📬 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyesh-trivedi-mumbai/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
+---
 
-<br />
+### 🛠️ Tech Stack & Tools
+
+**Infrastructure & DevOps**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Backend & Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
 
 ### 📊 GitHub Stats
-![Divyesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyesh172&show_icons=true&theme=radical)
+![Divyesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyesh172&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyesh172&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
